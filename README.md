@@ -36,7 +36,23 @@ Aquí tienes algunas de las tecnologías que utilizo y con las que estoy familia
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
+## 🌟 Proyectos Destacados
 
+Aquí tienes dos proyectos que reflejan mis habilidades en distintas áreas de desarrollo.
+
+* ### Proyecto Móvil: [Ha-Habit!]
+   Una aplicación desarrollada de forma nativa en **Android Studio** utilizando **Java**. El proyecto se centra en permitir a los usuarios hacer seguimiento de sus hábitos diarios. Me permitió profundizar en el ciclo de vida de la actividad, persistencia de datos y diseño de interfaces móviles.
+
+    **[Ver Repositorio]((https://github.com/AdriRedondo/Zephyra))**
+    **Tecnologías:** `Android (Java)`, `Git`
+
+* ### Proyecto Web: [Zephyra]
+    Una aplicación web completa para la gestión y monitorización de una flota de vehículos eléctricos. La interfaz fue construida con **EJS** y **Bootstrap**, con lógica dinámica y asíncrona gestionada con **JavaScript** y **AJAX**.
+
+    **[Ver Repositorio]((https://github.com/AdriRedondo/PAD-2025-26-HaHabit))**
+    **Tecnologías:** `EJS`, `CSS`, `Bootstrap`, `JavaScript`, `AJAX`
+
+---
 ## 📊 Estadísticas de GitHub
 
 [![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=AdriRedondo&show_icons=true&theme=radical&hide_border=true)](https://github.com/AdriRedondo)
