@@ -49,4 +49,3 @@ Aquí tienes algunas de las tecnologías que utilizo y con las que estoy familia
 - 📧 **Email:** adriredogom@gmail.com
 - 💼 **LinkedIn:** [Adrián Redondo](https://www.linkedin.com/in/adri%C3%A1n-redondo-079405372/)
 
-## ⚡ Fun fact
